@@ -1,10 +1,11 @@
 import Main from '../components/Layout/Main';
 import { FaLaptopCode, FaMobileAlt, FaCogs, FaPalette, FaServer, FaBug, FaWrench, FaHeadset } from 'react-icons/fa';
 import { Button } from '@material-tailwind/react';
-import { useNavigate } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom';
 
 const Services = () => {
-    const navigate = useNavigate()
+    const navigate = useNavigate();
+
     return (
         <Main>
             <div className='mx-auto max-w-6xl px-4'>
@@ -22,6 +23,7 @@ const Services = () => {
                         <li><FaServer className='inline mr-2' /> API Development and Integration.</li>
                         <li><FaBug className='inline mr-2' /> Testing and Quality Assurance.</li>
                         <li><FaWrench className='inline mr-2' /> Maintenance and Support.</li>
+                        <li><FaHeadset className='inline mr-2' /> Personal and Group Teaching in MERN Stack & React Native.</li>
                     </ul>
                 </div>
                 <div className='my-4'>
