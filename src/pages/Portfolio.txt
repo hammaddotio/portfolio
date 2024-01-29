@@ -1,0 +1,16 @@
+                    <div>
+                        <h1 className='mb-5 text-xl font-semibold uppercase'>MOBILE APPS</h1>
+                        <div className='flex flex-wrap gap-1 '>
+                            <div className='flex flex-wrap gap-1 '>
+                                <div className='h-80 w-72 rounded-xl bg-cyan-400'>
+                                    <div className='h-52 w-72 rounded-xl bg-blue-gray-500'>
+                                        {/* image */}
+                                    </div>
+                                    <div className='p-2'>
+                                        <h1 className='mb-2 text-lg font-medium uppercase'>E-COMMERCE STORE</h1>
+                                        <p className='text-xs'>Technologies: MERN Stack (MongoDb,ExpressJs,React Native,NodeJs)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>

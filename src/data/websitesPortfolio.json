@@ -1,0 +1,28 @@
+[
+    {
+        "image": "./assets/images/portfolio-images/full-stack-e-commerce-1.png",
+        "title":"E-commerce Full Stack App",
+        "technology": "MERN (MongoDb,ExpressJs,ReactJs,NodeJs)",
+        "description": "Full Stack Web App in MERN Stack",
+        "link":"https://github.com/Mady760/shopping-app",
+        "read_me":"https://github.com/Mady760/shopping-app?tab=readme-ov-file#ecommerce-full-stack-web-app"
+    },
+    {
+        "image": "./assets/images/portfolio-images/quiz-1.png",
+        "title":"QuizApp",
+        "technology": "ReactJs",
+        "link":"https://quiz-app761.vercel.app"
+    },
+    {
+        "image": "./assets/images/portfolio-images/digitalClock-1.png",
+        "title":"Digital Clock",
+        "technology": "JavaScript",
+        "link":"https://digital-clock-fawn-omega.vercel.app"
+    },
+    {
+        "image": "./assets/images/portfolio-images/thrift-pak-sole-1.png",
+        "title":"E-commerce App For Practice",
+        "technology": "ReactJs",
+        "link":"https://thrift-pak-sole.vercel.app"
+    }
+]
